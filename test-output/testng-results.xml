@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87250" started-at="2020-07-01T15:48:47 IST" finished-at="2020-07-01T15:50:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87250" started-at="2020-07-01T15:48:47 IST" finished-at="2020-07-01T15:50:14 IST">
+      <class name="nit.Selenum_ebaySearch.EbaySearchTest">
+        <test-method status="PASS" signature="search()[pri:0, instance:nit.Selenum_ebaySearch.EbaySearchTest@6c49835d]" name="search" duration-ms="87164" started-at="2020-07-01T15:48:47 IST" finished-at="2020-07-01T15:50:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- nit.Selenum_ebaySearch.EbaySearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

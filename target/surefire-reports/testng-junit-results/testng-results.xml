@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="620" started-at="2020-07-03T16:41:46 IST" finished-at="2020-07-03T16:41:47 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="620" started-at="2020-07-03T16:41:46 IST" finished-at="2020-07-03T16:41:47 IST">
+      <class name="nit.Selenum_ebaySearch.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(nit.Selenum_ebaySearch.AppTest)]" name="testApp" duration-ms="3" started-at="2020-07-03T16:41:47 IST" finished-at="2020-07-03T16:41:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- nit.Selenum_ebaySearch.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
